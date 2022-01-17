@@ -36,7 +36,7 @@ New Dataset: Images/New_bottom_5_schools.png
 Original dataset: Images/bottom_5_schools.png
 ![bottom_5_schools](https://user-images.githubusercontent.com/94019661/149845481-4543ff0d-22df-4141-850c-320172f8fc53.png)
 
-There was also no effect in between the 2 data sets for the bottom 5 schools
+There was also no effect in between the 2 data sets for the bottom 5 schools, similarly to the top 5.
 
 ### Average Math Scores
 New Dataset: Images/New_math_scores.png
@@ -45,6 +45,7 @@ New Dataset: Images/New_math_scores.png
 Original dataset: Images/math_scores.png
 ![math_scores](https://user-images.githubusercontent.com/94019661/149845582-8a7d2550-91ea-4be8-a585-14ca8d92f8a0.png)
 
+The main difference between the two datasets for this, is that you can see that all math grades were removed and changed to NaN.
 
 ### Average Reading Scores
 New Dataset: Images/New_reading_scores.png
@@ -53,6 +54,7 @@ New Dataset: Images/New_reading_scores.png
 Original dataset: Images/reading_scores.png
 ![reading_scores](https://user-images.githubusercontent.com/94019661/149845620-2e81ebc2-a23e-4bac-aa9c-bf205f173037.png)
 
+Similarily to above, the main difference between the two datasets for this, is that you can see that all reading grades were removed and changed to NaN.
 
 ### Scores by School Spending
 New Dataset: Images/New_avg_scores_by_spending.png
