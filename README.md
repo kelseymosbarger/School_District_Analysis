@@ -58,7 +58,7 @@ Similarily to above, the main difference between the two datasets for this, is t
 
 ### Scores by School Spending
 New Dataset: Images/New_avg_scores_by_spending.png
-![New_avg_scores_by_spending](https://user-images.githubusercontent.com/94019661/149845568-d3a337c4-f5d1-48d7-8708-d7afbe0b930a.png)
+![New_avg_scores_by_spending](https://user-images.githubusercontent.com/94019661/149846124-078badf2-66a5-41b6-a94c-6a3d5ba56670.png)
 
 Original dataset: Images/avg_score_by_spending.png
 ![avg_score_by_spending](https://user-images.githubusercontent.com/94019661/149845653-cdf9e4ef-c546-4e30-8e20-f05ad0092894.png)
