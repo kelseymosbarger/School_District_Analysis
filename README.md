@@ -63,6 +63,7 @@ New Dataset: Images/New_avg_scores_by_spending.png
 Original dataset: Images/avg_score_by_spending.png
 ![avg_score_by_spending](https://user-images.githubusercontent.com/94019661/149845653-cdf9e4ef-c546-4e30-8e20-f05ad0092894.png)
 
+By removing THS data you can see the effect is reducing the % passing for math, reading and overall for the school spending group of $630-644. Everything else remains the same. You can see that the falsified grades for THS 9th greaders raised that groupings passing % ~10%.
 
 ### Scores by School Size
 New Dataset: Images/New_avg_score_by_size.png
