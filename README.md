@@ -57,28 +57,45 @@ Original dataset: Images/reading_scores.png
 Similarily to above, the main difference between the two datasets for this, is that you can see that all reading grades were removed and changed to NaN.
 
 ### Scores by School Spending
-New Dataset: Images/New_avg_scores_by_spending.png
-![New_avg_scores_by_spending](https://user-images.githubusercontent.com/94019661/149846428-030ea2a2-30e3-4fbb-afe5-9bd31e98b855.png)
+New Dataset: 
+![image](https://user-images.githubusercontent.com/94019661/149849988-bf568b79-e6a0-4c39-87dc-30c3e05fd429.png)
 
-Original dataset: Images/avg_score_by_spending.png
-![avg_score_by_spending](https://user-images.githubusercontent.com/94019661/149845653-cdf9e4ef-c546-4e30-8e20-f05ad0092894.png)
+Original dataset: 
+![image](https://user-images.githubusercontent.com/94019661/149849994-797b3db0-f30e-464a-b812-77f50e469d1a.png)
 
 By removing THS data you can see the effect is reducing the % passing for math, reading and overall for the school spending group of $630-644. Everything else remains the same. You can see that the falsified grades for THS 9th greaders raised that groupings passing % ~10%.
 
 ### Scores by School Size
-New Dataset: Images/New_avg_score_by_size.png
-![New_avg_score_by_size](https://user-images.githubusercontent.com/94019661/149845553-f00788e1-c7de-4afa-991b-aabcf656f0cc.png)
+New Dataset: 
+![image](https://user-images.githubusercontent.com/94019661/149850013-481dcb30-bfa8-4618-a4fe-3121b7356f72.png)
 
-Original dataset: Images/avg_score_by_size.png
-![avg_score_by_size](https://user-images.githubusercontent.com/94019661/149845641-eb35b26a-ed30-4873-86a0-71f198267712.png)
+Original dataset: 
+![image](https://user-images.githubusercontent.com/94019661/149850018-0909746f-bbf2-40ed-bcf5-d54c2a4ad2e7.png)
 
+By removing THS 9th grades you can see it only slightly decreased all of the passing %.
 
 ### Scores by School Type
-New Dataset: Images/New_avg_score_by_type.png
-![New_avg_score_by_type](https://user-images.githubusercontent.com/94019661/149845558-80a4ff20-b9e7-4b12-83bf-50446f0d16fd.png)
+New Dataset: 
+![image](https://user-images.githubusercontent.com/94019661/149850105-f1af7dff-f4b2-4d70-a908-1cb7d00181ec.png)
 
-Original dataset: Images/avg_score_by_type.png
-![avg_score_by_type](https://user-images.githubusercontent.com/94019661/149845659-0361a78b-8f3f-4262-971a-a8b071afd5d6.png)
+Original dataset: 
+![image](https://user-images.githubusercontent.com/94019661/149850110-2e5df5ae-8ab2-494a-9a61-9fdbadf47147.png)
 
+Similarily to the trends above, the effect of the new code is a slight decrease in passing %s for charter schools.
 
 ## Summary
+Overall the effects of removing Thomas High School 9th graders is minimal. I belice it is better than providing artificial stats to the superintendant as that is not accurate.
+
+the 4 main changes cause from the code chage (aside from what has been preiously mentioned) are as follows:
+New Dataset:
+![image](https://user-images.githubusercontent.com/94019661/149850280-30376ec3-1696-48c4-a42f-6e5b9cf59efc.png)
+
+Old Dataset:
+![image](https://user-images.githubusercontent.com/94019661/149850288-e92730e4-2084-4381-be5e-75d9d2aed05b.png)
+
+1. Thomas High School avg math scores decreased by 0.067
+2. THS avg reading scores increased by 0.047
+3. THS Passing math % decreased by 0.086
+4. THS passing reading % decreased by 0.29
+5. Overall THS passing % decreased more than anything else by 0.32
+
